@@ -1,22 +1,22 @@
-Test task.
-Done by Dang for Scount
+#Test task.
+Done by Dang for Scoutbase
 
-#Project description:
+##Project description:
 Frontend Task
 Countries Information Service app using React, Styled COmponent, React Router and GraphQL.
 
-![Result](react-material/public/recorder.gif)
+![Result](test-scoutbase-frontend/public/public/recorder.gif)
 
 
-#Task Definition:
+##Task Definition:
 This task is for demonstrating your understanding of HTML, CSS, Javascript, React & related libraries.
 
-#Implementation
+##Implementation
 Used React, Styled Component, Applo-Client, GraphQL, React-Router
 
-#To run and test application:
+##To run and test application:
 1. Go to root folder and run "npm install" command.
-4. Run "npm start"
+2. Run "npm start"
     
 Aug 20, 2019
 
