@@ -5,7 +5,7 @@ Done by Dang for Scoutbase
 Frontend Task
 Countries Information Service app using React, Styled COmponent, React Router and GraphQL.
 
-![Result](test-scoutbase-frontend/public/public/recorder.gif)
+![Result](test-scoutbase-frontend/public/recorder.gif)
 
 
 ##Task Definition:
