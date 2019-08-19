@@ -1,89 +1,22 @@
-# Test task.
-Done by Fei for Scoutbase
+# Code Challenge for Scoutbase
 
-## Project description:
-Frontend Task
-Countries Information Service app using React, Styled COmponent, React Router and GraphQL.
+If you’re reading this, then you’ve applied for a position at Scoutbase.
 
-![Result](test-scoutbase-frontend/public/recorder.gif)
+This directory includes two subdirectories:
 
+- `front-end` with focus on React, SSR, Apollo & `styled-components`
+- `back-end` with focus on SQL, Node.js, GraphQL
 
-## Task Definition:
-This task is for demonstrating your understanding of HTML, CSS, Javascript, React & related libraries.
+You can do one or you can do two.
 
-## Implementation
-Used React, Styled Component, Applo-Client, GraphQL, React-Router
+## Instructions
 
-## To run and test application:
-1. Go to root folder and run "npm install" command.
-2. Run "npm start"
-    
-Aug 20, 2019
+You have received this directory within the .zip archive.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+1. Create a repo out of the directory with this `README.md` in the root of it.
+2. Work on either task following the guidelines in `README.md` within chosen directory.
+3. Follow best practices of saving changes to the repo.
+4. Upload the repo to your personal Github account and share it with two collaborators:
+  1. `Yaass` username – Yassin Askar, co-founder of Scoutbase
+  2. `kuka` username – Kuanysh, consultant
+5. Expect a response within 10 working days after sharing the task, you’ll be contacted with the info you’ve provided during initial registration.
