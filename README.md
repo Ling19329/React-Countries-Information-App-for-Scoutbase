@@ -20,3 +20,5 @@ You have received this directory within the .zip archive.
   1. `Yaass` username – Yassin Askar, co-founder of Scoutbase
   2. `kuka` username – Kuanysh, consultant
 5. Expect a response within 10 working days after sharing the task, you’ll be contacted with the info you’ve provided during initial registration.
+
+![Result](test-scoutbase-frontend/public/recorder.gif)
