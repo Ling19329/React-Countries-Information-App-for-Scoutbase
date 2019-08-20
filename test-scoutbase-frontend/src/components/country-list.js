@@ -1,6 +1,5 @@
 import React from 'react';
 import ReactCountryFlag from "react-country-flag";
-import { Link } from 'react-router-dom'
 import { Query } from "react-apollo"
 import { gql } from "apollo-boost"
 import styled from "styled-components"
