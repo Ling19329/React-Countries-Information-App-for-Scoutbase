@@ -1,9 +1,6 @@
 import React from 'react';
-import {useEffect, useState} from 'react'
-import ApolloClient from "apollo-boost"
-
+import { useState} from 'react'
 import ReactCountryFlag from "react-country-flag";
-import { Link } from 'react-router-dom'
 import { Query } from "react-apollo"
 import { gql } from "apollo-boost"
 import styled from "styled-components"

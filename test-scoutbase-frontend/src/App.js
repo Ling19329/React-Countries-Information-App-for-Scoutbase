@@ -1,26 +1,20 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 
+import styled from "styled-components"
+const CountryLink = styled.a`{
+  text-decoration: none;
+  color : DodgerBlue;
+}`
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <a
-          className="App-link"
-          href="/countries/1"
-          rel="noopener noreferrer"
-        >
-          Country
-        </a>
-
-        <a
-          className="App-link"
+        <CountryLink
           href="/countries"
-          rel="noopener noreferrer"
         >
           Countries
-        </a>
+        </CountryLink>
       </header>
     </div>
   );
